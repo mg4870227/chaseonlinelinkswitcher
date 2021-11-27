@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: https://chaseonlinesecure01.herokuapp.com/"); 
+header("Location: https://google.com/"); 
   
 exit; 
 ?> 
